@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MrMarteng
 - 👀 I’m interested in Software-Development
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently I am getting a fanboy of Zephyr
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me @MartinKiepfer
 
